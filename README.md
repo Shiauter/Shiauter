@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, I'm Shiauter
 
-<!--
-**Shiauter/Shiauter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I'm a student and currently learning everything 🤣
+- 👯 Just ask me everything for help, including studying, development or even you just wanna say hi to me.
+- ⚡ Beside programming, I like to play piano, play video games and doing photography
 
-Here are some ideas to get you started:
+### Contact me:
+[<img align="left" alt="Discord" width="22px" src="https://i.pinimg.com/736x/34/91/f3/3491f3e50ab6a4d51a348f9cc2419842.jpg" />][Discord]
+[<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
+[<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[Discord]: https://discord.gg/AupqJBUSzs
+[Instagram]: https://www.instagram.com/shiauter/
+[Twitter]: https://twitter.com/shiauter
