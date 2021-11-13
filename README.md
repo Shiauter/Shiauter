@@ -10,7 +10,7 @@
 [<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 
 <br>
-### [My Website](https://shiauter.github.io/web/)
+[### My Website](https://shiauter.github.io/web/)
 
 
 [Discord]: https://discord.gg/AupqJBUSzs
