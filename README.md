@@ -7,9 +7,9 @@
 ### Contact me:
 [<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][Twitter]
 
-[<img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][Discord]
+[<img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][Instagram]
 
-[<img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" />][Instagram]
+[<img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" />][Discord]
 
 [Twitter]: https://twitter.com/shiauter
 [Instagram]: https://www.instagram.com/shiauter
