@@ -4,18 +4,6 @@
 - ⚡ Beside programming, I like to play piano, play video games and doing photography
 - 👯 Feel free to ask me everything, including studying, development or even if you just wanna say hi to me 😊
 
-### Contact me:
-[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][Twitter]
-
-[<img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][Instagram]
-
-[<img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" />][Discord]
-
-[Twitter]: https://twitter.com/shiauter
-[Instagram]: https://www.instagram.com/shiauter
-[Discord]: https://discord.gg/AupqJBUSzs
-<br>
-
 ### Languages and Tools:
 [<img align="left" alt="Bootstrap" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />][Bootstrap]
 
@@ -46,6 +34,15 @@
 [<img align="left" alt="Qt" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" />][Qt]
 
 [<img align="left" alt="Unity" width="22px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />][Unity]
+<br>
+
+### Contact me:
+[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][Twitter]
+
+[<img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][Instagram]
+
+[<img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" />][Discord]
+<br>
 
 [Bootstrap]: https://getbootstrap.com
 [C]: https://www.cprogramming.com/
@@ -62,3 +59,7 @@
 [Python]: https://www.python.org
 [Qt]: https://www.qt.io/
 [Unity]: https://unity.com/
+
+[Twitter]: https://twitter.com/shiauter
+[Instagram]: https://www.instagram.com/shiauter
+[Discord]: https://discord.gg/AupqJBUSzs
