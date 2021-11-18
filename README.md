@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Shiauter
 
 - 🌱 I'm a student and currently learning everything
-- ⚡ Beside programming, I like to play piano, play video games and do [photography](http://shiauter.github.io/web)
+- ⚡ Beside programming, I like to play piano, play video games and do photography
 - 👯 Feel free to ask me everything, including studying, development or even if you just wanna say hi to me 😊
 
 ### Languages and Tools:
