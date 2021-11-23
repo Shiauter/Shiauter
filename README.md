@@ -5,7 +5,7 @@
 - 👯 Feel free to ask me everything, including studying, development or even if you just wanna say hi to me 😊
 
 [<img align="left" alt="Shiauter's Github Stats" src="
-https://github-readme-stats.vercel.app/api?username=Shiauter&count_private=true&show_icons=true&theme=dark" />]
+https://github-readme-stats.vercel.app/api?username=Shiauter&count_private=true&show_icons=true&theme=dark" />](https://shiauter.github.io/web)
 
 ### Languages and Tools:
 [<img align="left" alt="Bootstrap" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />][Bootstrap]
