@@ -4,7 +4,7 @@
 - ⚡ Beside programming, I like to play piano, play video games and do photography
 - 👯 Feel free to ask me everything, including studying, development or even if you just wanna say hi to me 😊
 
-[![Shiauter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiauter&count_private=false&show_icons=true&theme=dark)]
+[![Shiauter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiauter&count_private=true&show_icons=true&theme=dark)]
 
 ### Languages and Tools:
 [<img align="left" alt="Bootstrap" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />][Bootstrap]
