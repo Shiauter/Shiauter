@@ -4,7 +4,7 @@
 - ⚡ Beside programming, I like to play piano, play video games and do photography
 - 👯 Feel free to ask me everything, including studying, development or even if you just wanna say hi to me 😊
 
-### Languages and Tools:
+<!-- ### Languages and Tools:
 [<img align="left" alt="Bootstrap" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />][Bootstrap]
 
 [<img align="left" alt="C" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />][C]
@@ -34,7 +34,7 @@
 [<img align="left" alt="Qt" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" />][Qt]
 
 [<img align="left" alt="Unity" width="22px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />][Unity]
-<br>
+<br> -->
 
 ### Contact me:
 [<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][Twitter]
